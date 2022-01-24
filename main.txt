@@ -3,3 +3,9 @@
    ready to merging
    
     merging text is here
+
+   text adding from branch2
+   
+   this text come from branch2
+   
+   ending of branch2
