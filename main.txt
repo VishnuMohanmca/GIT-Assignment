@@ -1,0 +1,5 @@
+   main text file for git demo
+   
+   ready to merging
+   
+    merging text is here
